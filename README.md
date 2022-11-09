@@ -1,5 +1,5 @@
 - 👋 Hi, I’m kanhaiya
-- 👀 I’m interested in data science and machine learning 
+- 👀 I’m interested in blockchain,data science and machine learning 
 - 🌱 I’m currently studying at IIT Bombay.
 
 <!---
