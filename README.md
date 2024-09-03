@@ -1,6 +1,6 @@
 - 👋 Hi, I’m kanhaiya
-- 👀 I’m interested in blockchain,data science and machine learning 
-- 🌱 I’m currently studying at IIT Bombay.
+- 👀 I’m interested in blockchain, data science, machine learning, LLMs and Gen AI
+- 🌱 I studied at IIT Bombay.
 
 <!---
 ikanhaiyakr/ikanhaiyakr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
